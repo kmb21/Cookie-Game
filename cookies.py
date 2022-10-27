@@ -1,6 +1,7 @@
 """
 This is a program that executes a cookie game model in which \
-two users keep on removing cookies till there are none left in the jar
+two users keep on removing cookies till there are none left in the jar\
+Quality of program will be update weekly
 """
 def welcome():
    print("========================================")
